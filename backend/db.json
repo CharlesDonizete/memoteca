@@ -4,19 +4,25 @@
       "id": 1,
       "conteudo": "Que bom que vc veio",
       "autoria": "Nay",
-      "modelo": "modelo 1"
+      "modelo": "modelo1"
     },
     {
       "id": 2,
       "conteudo": "Estudo Angular",
-      "autoria": "Dev Alura",
-      "modelo": "modelo 2"
+      "autoria": "Dev Alura 1",
+      "modelo": "modelo3"
     },
     {
       "id": 3,
       "conteudo": "Angular é o melhor",
       "autoria": "Nay",
-      "modelo": "modelo 3"
+      "modelo": "modelo3"
+    },
+    {
+      "conteudo": "Teste de edição",
+      "autoria": "Dev ",
+      "modelo": "modelo2",
+      "id": 4
     }
   ]
 }
