@@ -1,0 +1,9 @@
+<div class="center" *ngIf="haMaisPensamentos; else semMaisPesamentos">
+  <button class="botao carregar-mais">Carregar mais</button>
+</div>
+
+<ng-template #semMaisPesamentos>
+  <div class="mensagem-center ff-inter">
+    Não há mais pensamentos para exibir
+  </div>
+</ng-template>
