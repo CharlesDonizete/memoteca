@@ -4,48 +4,56 @@
       "id": 1,
       "conteudo": "Que bom que vc veio",
       "autoria": "Nay",
-      "modelo": "modelo1"
+      "modelo": "modelo1",
+      "favorito": true
     },
     {
       "id": 2,
       "conteudo": "Estudo Angular",
       "autoria": "Dev Alura 1",
-      "modelo": "modelo3"
+      "modelo": "modelo3",
+      "favorito": false
     },
     {
       "id": 3,
       "conteudo": "Angular é o melhor",
       "autoria": "Nay",
-      "modelo": "modelo3"
+      "modelo": "modelo3",
+      "favorito": false
     },
     {
       "conteudo": "Teste de edição",
       "autoria": "Dev ",
       "modelo": "modelo2",
+      "favorito": false,
       "id": 4
     },
     {
       "conteudo": "Hoje foi um bom dia!",
       "autoria": "Charles",
       "modelo": "modelo3",
+      "favorito": true,
       "id": 5
     },
     {
       "conteudo": "      Que a força esteja com você",
       "autoria": "Mestre Yoda",
       "modelo": "modelo1",
+      "favorito": false,
       "id": 6
     },
     {
       "conteudo": "ssssss",
       "autoria": "ssss",
       "modelo": "modelo1",
+      "favorito": false,
       "id": 7
     },
     {
       "conteudo": "Resolver o bug não consegue? Esfriar a cabeça você deve.",
       "autoria": "mestre yoda",
       "modelo": "modelo2",
+      "favorito": true,
       "id": 8
     }
   ]
